@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Data Collection
 - 🌱 I’m currently learning Data Science
+- 💬 Telegram : +855 69 224 288
 - 📫 How to reach me: VANNAKVIREAKYUTH16@gmail.com
 
 <!--
