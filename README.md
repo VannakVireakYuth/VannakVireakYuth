@@ -47,7 +47,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{VannakVireakYuth}/count.svg"></p>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/1rECJW6X7IgHC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.334288044c4e526df8c2755bd0637cea?rik=LNyzaejNB9%2fTzg&riu=http%3a%2f%2ftroikagraphics.com%2fwp-content%2fuploads%2f2020%2f12%2fprogramming-human.gif&ehk=yiD7wM7GO5S%2fuUGDHZ3zgrkmXP91xRMqkDA%2bUzTAxvw%3d&risl=&pid=ImgRaw&r=0">
 
 
 - 🔭 I’m currently working on Data Collection
