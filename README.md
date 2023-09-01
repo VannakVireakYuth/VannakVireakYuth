@@ -1,3 +1,5 @@
+![logo](https://github.com/VannakVireakYuth/VannakVireakYuth/blob/main/Neon%20Gradient%20Neuro%20Art%20Facebook%20Post%20.png)
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+VireakYuth👋.;I+like+coding.;WELCOME.;&center=true&width=500&height=50"></a>
 </p>
